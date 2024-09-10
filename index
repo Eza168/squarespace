@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
     <head>
@@ -1389,7 +1387,7 @@
                                     <article class="ProductItem hentry author-abctop-topkali post-type-store-item" data-item-id="6699fb355c2bb33e124425ae">
                                         <nav class="ProductItem-nav">
                                             <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-                                                <a href="$URL_LP" class="ProductItem-nav-breadcrumb-link">TOGEL ONLINE</a>
+                                                <a href="$URL_LP" class="ProductItem-nav-breadcrumb-link">$SCHEMA_NAME</a>
                                                 <span class="ProductItem-nav-breadcrumb-separator"></span>
                                                 <a href="$URL_LP" class="ProductItem-nav-breadcrumb-link">$TITLE</a>
                                             </div>
