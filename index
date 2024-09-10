@@ -993,7 +993,7 @@
 
                                             <div class="header-nav-item header-nav-item--collection">
                                                 <a href="$URL_LP" data-animation-role="header-element">
-                                                    MACAU
+                                                    $KW2_HEAD
                                                 </a>
                                             </div>
                                         </nav>
@@ -1067,7 +1067,7 @@
 
                                             <div class="header-nav-item header-nav-item--collection">
                                                 <a href="$URL_LP" data-animation-role="header-element">
-                                                    MACAU
+                                                    $KW2_HEAD
                                                 </a>
                                             </div>
                                         </nav>
@@ -1329,7 +1329,7 @@
                                         <div class="container header-menu-nav-item header-menu-nav-item--collection">
                                             <a href="$URL_LP">
                                                 <div class="header-menu-nav-item-content">
-                                                    MACAU
+                                                    $KW2_HEAD
                                                 </div>
                                             </a>
                                         </div>
