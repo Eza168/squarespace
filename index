@@ -987,7 +987,7 @@
                                         <nav class="header-nav-list">
                                             <div class="header-nav-item header-nav-item--collection header-nav-item--active">
                                                 <a href="$URL_LP" data-animation-role="header-element" aria-current="page">
-                                                    TOGEL
+                                                    $KW1_HEAD
                                                 </a>
                                             </div>
 
@@ -1061,7 +1061,7 @@
                                         <nav class="header-nav-list">
                                             <div class="header-nav-item header-nav-item--collection header-nav-item--active">
                                                 <a href="$URL_LP" data-animation-role="header-element" aria-current="page">
-                                                    TOGEL
+                                                    $KW1_HEAD
                                                 </a>
                                             </div>
 
@@ -1321,7 +1321,7 @@
                                         <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
                                             <a href="$URL_LP" aria-current="page">
                                                 <div class="header-menu-nav-item-content">
-                                                    TOGEL
+                                                    $KW1_HEAD
                                                 </div>
                                             </a>
                                         </div>
