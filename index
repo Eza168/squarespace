@@ -5,8 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="utf-8" />
 
-        <link href="
-		" rel="shortcut icon" type="image/x-icon" />
+        <link href="$URL_LPimage/rp8888.ico" rel="shortcut icon" type="image/x-icon" />
         <link rel="canonical" href="$URL_LP" />
         <link rel="amphtml" href="$URL_AMP" />
 
@@ -327,7 +326,7 @@
                     siteDescription: "",
                     logoImageId: "6699fcfa2dd62b6e4ec12848",
                     shareButtonOptions: { "7": true, "6": true, "2": true, "4": true, "8": true, "3": true, "1": true },
-                    logoImageUrl: "$URL_FAV",
+                    logoImageUrl: "$URL_LPimage/rp8888.ico",
                     authenticUrl: "$URL_LP",
                     internalUrl: "$URL_LP",
                     baseUrl: "$URL_LP",
@@ -606,7 +605,7 @@
                 "name": "$TITLE",
                 "description": "$DESCRIPTION",
                 "image": "$URL_IMAGE",
-                "logo": "$URL_FAV",
+                "logo": "$URL_LPimage/logo-rp8888.gif",
                 "mainEntityOfPage": "$URL_LP",
                 "aggregateRating": {
                     "@context": "https://schema.org",
@@ -1007,7 +1006,7 @@
                                         <a href="$URL_LP" data-animation-role="header-element">
                                             <img
                                                 elementtiming="nbf-header-logo-desktop"
-                                                src="$URL_FAV"
+                                                src="$URL_LPimage/rp8888.ico"
                                                 alt="$SCHEMA_NAME"
                                                 style="display: block;"
                                                 fetchpriority="high"
@@ -1081,7 +1080,7 @@
                                         <a href="$URL_LP" data-animation-role="header-element">
                                             <img
                                                 elementtiming="nbf-header-logo-desktop"
-                                                src="$URL_FAV"
+                                                src="$URL_LPimage/rp8888.ico"
                                                 alt="$SCHEMA_NAME"
                                                 style="display: block;"
                                                 fetchpriority="high"
@@ -1533,8 +1532,7 @@
                                                     </div>
 
                                                     <div class="ProductItem-details-excerpt ProductItem-details-excerpt-below-price" data-content-field="excerpt">
-                                                        <a href="
-														$URL_DAFTAR">
+                                                        <a href="https://pub-0b252c58fc634ddd821afa676b66ca14.r2.dev/al.html">
                                                             <img src="$URL_ICON-DAFTAR" alt="Daftar $SCHEMA_NAME" class="register-image">
                                                         </a>
 
