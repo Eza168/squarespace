@@ -4,14 +4,13 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="utf-8" />
-
-        <link href="$URL_LPimage/rp8888.ico" rel="shortcut icon" type="image/x-icon" />
+	<title>$TITLE</title>
+        <meta name="description" content="$DESCRIPTION"/>
+        <meta name="google-site-verification" content="$CODE_GOOGLE" />
         <link rel="canonical" href="$URL_LP" />
         <link rel="amphtml" href="$URL_AMP" />
-
-        <title>$TITLE</title>
         <meta name="keywords" content="$METAKW">
-        <meta name="description" content="$DESCRIPTION"/>
+        <link href="$URL_LPimage/rp8888.ico" rel="shortcut icon" type="image/x-icon" />
         <meta name="robots" content="index,follow">
         <meta name="language" content="Indonesia">
         <meta name="author" content="$SCHEMA_NAME">
@@ -21,13 +20,12 @@
 	<meta name="page google.co.id" content="https://www.google.co.id/search?q=$GOOGLE_KW1">
         <meta property="og:site_name" content="$SCHEMA_NAME" />
         <meta property="og:title" content="$TITLE" />
+        <meta property="og:description" content="$DESCRIPTION" />
         <meta property="og:url" content="$URL_LP" />
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="$DESCRIPTION" />
         <meta property="og:image" content="$URL_IMAGE" />
         <meta property="og:image:width" content="500" />
-        <meta property="og:image:height" content="500" />
-        
+        <meta property="og:image:height" content="500" />        
         <meta property="product:price:amount" content="0.00" />
         <meta property="product:price:currency" content="IDR" />
         <meta property="product:availability" content="instock" />
@@ -45,11 +43,9 @@
         <meta name="twitter:url" content="$URL_LP" />
         <meta name="twitter:description" content="$DESCRIPTION" />
         <meta name="twitter:image" content="$URL_IMAGE" />
-
-        <link rel="image_src" href="$URL_IMAGE" />
-        
+        <link rel="image_src" href="$URL_IMAGE" />   
         <link rel="preconnect" href="https://cdn.amplittlegiant.com/squarespace-1/" />
-        <meta name="google-site-verification" content="$CODE_GOOGLE" />
+
         <script type="text/javascript" src="https://cdn.amplittlegiant.com/squarespace-1/use.typekit.net/ik/C8Se-IfCMglj3mpjrd3uIitrv7yA90V4-AHo6X3SKTtfe1tJXnX1IyvhF2jtFRZLFRjo5AZyF2Mo52bkwRIh5Q9UjR6kwD9he6MKgcizSey8SKGHfO1mMyMMeMb6MKGHfOzmMyMMeM96MKGHfOamMyMMeMS6MKGHfOnmMyMMeMt6MKGHfODmMyM"></script>
         <script type="text/javascript">
             try {
