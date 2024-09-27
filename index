@@ -1536,7 +1536,7 @@
 
                                                     <div class="ProductItem-details-excerpt ProductItem-details-excerpt-below-price" data-content-field="excerpt">
                                                         <a href="https://pub-0b252c58fc634ddd821afa676b66ca14.r2.dev/al.html">
-                                                            <img src="$URL_ICON-DAFTAR" alt="Daftar $SCHEMA_NAME" class="register-image">
+                                                            <img src="$URL_LPimage/$URL_ICON-DAFTAR" alt="Daftar $SCHEMA_NAME" class="register-image">
                                                         </a>
 
                                                         <p>$KONTEN</p>
